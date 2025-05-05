@@ -1,0 +1,9 @@
+streamlit
+fastapi
+pandas
+matplotlib
+seaborn
+matplotlib-venn
+numpy
+plotly
+pywaffle
